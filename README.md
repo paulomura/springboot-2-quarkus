@@ -116,7 +116,7 @@ Let's try the Quarkus Native flavor of this app (with GraalVM Native)
 
 5. Run the Quarkus app (with GraalVM Native)
 
-> You should first install GraalVM Native in your workstation. [Here](./installing-graalvm.md) a quick and easy how to install.
+> You should first install GraalVM Native in your workstation. [Here](https://github.com/tgubeli/springboot-2-quarkus/blob/master/installing-graalvm.md) a quick and easy how to install.
 
 Firts we need to compile our quarkus app in a native way. This should take some time (2-3 minutes depending on your machine)
 
